@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @poojasree06
+- 👋 Hi, I’m Pooja Sree
 
 <!---
 poojasree06/poojasree06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
